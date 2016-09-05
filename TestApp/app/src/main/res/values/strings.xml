@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="action_show1">Game of thrones</string>
+    <string name="action_show2">Smallville</string>
+    <string name="action_show3">House</string>
+    <string name="action_settings">Settings</string>
+    <string name="episodes_title">Episodes</string>
+    <string name="seasons_title">Seasons</string>
+    <string name="season_tag">Season</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_error">ERROR</string>
+    <string name="message_no_results">There are not results no show</string>
+    <string name="message_select_show">Please select a show from the menu</string>
+    <string name="message_error">Something went wrong.\n* Maybe there is not internet connection.\n* Server error.\n\nPlease try again</string>
+
+
+
+
+</resources>
